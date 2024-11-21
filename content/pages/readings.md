@@ -56,12 +56,12 @@ Wilde. "The Selfish Giant." ([download](http://www.eastoftheweb.com/short-storie
 
 We'll also read paintings by Burne-Jones ("King Cophetua and the Beggar Maid," "Star of Bethlehem.") and Wm. Holman Hunt ("Light of the World", "Rienzi").
 
-Extra evening class this week:    
+Extra evening class this week:      
 [*Wilde*](https://www.imdb.com/title/tt0120514/). DVD, 117 min. Columbia/Tristar, UK, 1997.
 
 After this film, write a 2-page meditation on the film's attitude toward the relation of the life to the art. You may consider dimensions of class, of sexuality and/or its social or legal descriptions, of other cultural forces, of psychology. If you're stuck for a topic, consider why the film uses the Wilde story as its framing device.
 
-We'll also read paintings by D. G. Rossetti ("The Girlhood of the Virgin Mary," "How they Met Themselves," and "Ecce Ancilla Domini"), and for reference read Buchanan, "The Fleshy School of Petry." ([download](http://jefferson.village.virginia.edu/) versions of and commentary on these works from the Rossetti Archive)
+We'll also read paintings by D. G. Rossetti ("The Girlhood of the Virgin Mary," "How they Met Themselves," and "Ecce Ancilla Domini"), and for reference read Buchanan, "The Fleshy School of Petry." 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -97,12 +97,12 @@ Ruskin and the Whistler trial.
 
 *Primary*
 
-Wilde, Oscar. "Rocket." ([download](http://www.classicreader.com/read.php/sid.6/bookid.208/) a version of this text from classicreader.com)
+Wilde, Oscar. "Rocket." 
 
 Ruskin, John. "Of Modern Landscape." Chapter 16 in *Modern Painters.* Vol. 3, part iv, 1856. 
 
-*Poems About Art*    
-    
+*Poems About Art*      
+      
 Pater, Walter. *Studies in the History of the Renaissance.* 1st ed. 1873. Conclusion, pp. 207-10.
 
 ———. "Style." *Fortnightly Review* 50 (December 1888): 728-42.
@@ -113,7 +113,7 @@ Masson, David. "Pre-Raphaelitism in Art and Literature." *British Quarterly Revi
 
 Rosetti, C. "Song," "Birthday," "Ladybird," "Remember." ([download](http://classiclit.about.com/library/bl-etexts/crossetti/bl-crossetti-collected.htm) a version of this work from about.com)
 
-Rosetti, D. G. "Woodspurge." ([download](http://jefferson.village.virginia.edu/) a version of this work from the Univirsity of Virginia)
+Rosetti, D. G. "Woodspurge." 
 
 Swinburne, Algernon. "[Leper](https://www.poetryfoundation.org/poems/45027/the-woodspurge)."
 
@@ -143,11 +143,11 @@ Gilbert and Sullivan's *Patience* and Bunthorne.
 
 *Primary*
 
-Whitman. "Calamus." (download a version of this work from Project Gutenberg)    
-    
+Whitman. "Calamus." (download a version of this work from Project Gutenberg)      
+      
 *Poems*
 
-"Live Oak with Moss." (Poem Sequence) ([download](http://www.iath.virginia.edu/fdw/volume3/price/lowm.php?toc=liveoak) a version of this work from the University of Virginia)
+"Live Oak with Moss." (Poem Sequence) 
 
 Plato. "Lysis." ([download](http://www.gutenberg.org/ebooks/1579) a version of this work from Project Gutenberg)
 
@@ -201,12 +201,12 @@ Sergeant Picture: "The Boit Sisters."
 
 Wm. Morris: Wallpaper patterns, with reference to the history of wallpaper and to other systems of repetition and change — c.f. Deleuze.)
 
-*Factoids*   
+*Factoids*     
 Fabianism.
 
 Wm. Morris and the politics of wallpaper.
 
-*Films*   
+*Films*     
 Weekday Evening: Wilde's [*An Ideal Husband*](http://www.imdb.com/title/tt0122541/)*.* DVD, 98 min. Mirimax Home Entertainment, US, 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -277,7 +277,7 @@ Deleuze, Gilles. "Lewis Carroll."
 
 *In Class*
 
-We'll read photos by 'Lewis Carroll' and by Sally Mann. ([download](http://www.aboutus.org/SallyMann.org) versions of Mann's photos from sallymann.org)
+We'll read photos by 'Lewis Carroll' and by Sally Mann. 
 
 *Factoids*
 
@@ -285,7 +285,7 @@ The Tenniell Illustations.
 
 Lewis Carroll/Mathematician/Photographer.
 
-Freud. Women and the Seduction Theory. Available in:    
+Freud. Women and the Seduction Theory. Available in:      
 Freud, Sigmund. *Three Essays on the Theory of Sexuality*. New York: Basic Books, 2000. ISBN: 0465097081.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
